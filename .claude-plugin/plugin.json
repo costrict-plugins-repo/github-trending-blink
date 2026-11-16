@@ -1,0 +1,12 @@
+{
+  "name": "blink",
+  "version": "1.0.0",
+  "description": "Build and host full-stack apps with managed database, auth, storage, backend, queue, and custom domains — all from your editor.",
+  "author": { "name": "Blink", "email": "kai@blink.new" },
+  "homepage": "https://blink.new",
+  "repository": "https://github.com/blink-new/blink-plugin",
+  "license": "MIT",
+  "skills": "./skills/",
+  "agents": "./agents/",
+  "mcpServers": "./mcp.json"
+}
